@@ -1,0 +1,42 @@
+.navbar {
+    --bs-bg-opacity: 1;
+    background-color: rgb(111, 185, 255);
+}
+
+.fixed-bottom {
+    background-color:rgb(111, 185, 255) ;
+    height: 100px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.a1{
+    text-align: center;
+}
+.abc {
+
+    font-size: 20px;
+	line-height: 50px;
+	text-align: center;
+	width: 400px;
+    margin-left: 750px;
+}
+img {
+    width: 600px;
+    height: 400px;
+}
+body {
+    background-color: rgb(173, 200, 230);
+}
+.w1{
+    width: 900px;
+    height: 700px;
+    margin-left: 500px;
+}
+footer{
+    display: flex;
+}
+.q2{
+    width: 900px;
+    margin-left: 500px;
+}
